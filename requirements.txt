@@ -1,0 +1,7 @@
+langchain>=0.2
+langchain-community>=0.2
+langchain-openai>=0.1
+sentence-transformers>=2.2
+faiss-cpu>=1.7
+tiktoken>=0.7
+python-dotenv>=1.0
